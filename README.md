@@ -3,7 +3,7 @@ Export OBJ files with vertex colors in blender.
 
 Importing is currently unsupported.
 
-(r,g,b values are added to the end of each vertex in the .obj file if you need an importer)
+(r,g,b values are added to the end of each vertex (like meshlab) in the .obj file if you need an importer)
 
 Works only with Blender 2.79 (probably).
 # Installation
