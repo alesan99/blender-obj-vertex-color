@@ -12,3 +12,6 @@ Go to your blender installation folder and put it in the addons_contrib folder
 (Program Files > Blender Foundation > Blender > 2.79 > Scripts > addons_contrib)
 
 Enable it in your user preferences. It might be categorized under 'Testing'
+
+
+OBJ export taken from blender 2.79
